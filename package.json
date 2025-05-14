@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BhishanSharma/create-auth-system.git"
+    "url": "git+https://github.com/BhishanSharma/create-auth-system.git"
   },
   "bugs": {
     "url": "https://github.com/BhishanSharma/create-auth-system/issues"
