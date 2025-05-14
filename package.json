@@ -27,10 +27,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BhishanSharma/create-auth-system.git"
+    "url": "git+https://github.com/BhishanSharma/create-auth-app.git"
   },
   "bugs": {
-    "url": "https://github.com/BhishanSharma/create-auth-system/issues"
+    "url": "https://github.com/BhishanSharma/create-auth-app/issues"
   },
-  "homepage": "https://github.com/BhishanSharma/create-auth-system#readme"
+  "homepage": "https://github.com/BhishanSharma/create-auth-app#readme"
 }
